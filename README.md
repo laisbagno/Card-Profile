@@ -22,11 +22,7 @@ This project is a challenge from [Frontend Mentor](https://www.frontendmentor.io
 
 <br> 
 
-### ⚡ Access the [project online]()
+### ⚡ Access the [project online](https://laisbagno.github.io/Card-Profile/)
 
 ---
 ### 💎 Follow me on [linkedin](https://www.linkedin.com/in/laisbagno/)
-
-
-# Card-Profile
-# Card-Profile
